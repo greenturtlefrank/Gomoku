@@ -34,8 +34,8 @@ To achieve high performance and competitive rankings, the implements the followi
 
 * `src/`:
     * `main.cpp`: The **Game Engine**. It initializes the board, calls players in turn, manages the 10-second time limit, and determines the winner.
-    * `player.cpp`: **My Main Player**. This is my primary brain containing the Minimax algorithm, Alpha-Beta pruning, and your custom evaluation function.
-* `baseline/`: A **Baseline AI**. It serves as a testing opponent to verify my environment and basic logic.
+    * `player.cpp`: **My Main Player**. This is primary brain containing the Minimax algorithm, Alpha-Beta pruning, and the custom evaluation function.
+* `baseline/`: A **Baseline**. It serves as a testing opponent to verify the environment and basic logic.
 
 
 
