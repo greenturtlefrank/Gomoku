@@ -1,0 +1,11 @@
+.vscode/
+
+*.o
+*.exe
+*.txt
+
+main
+state
+action
+player
+gamelog.txt
